@@ -1,0 +1,49 @@
+<table class="table schedule" style="max-width:100%">
+    <tbody>
+
+        {{- range .Site.Data.schedule }}
+        {{- range . }}
+        <tr
+            class="{{- if .bottomborder }} section-bottom {{- end }}{{- if .bottomborderdotted }} section-bottom-dotted {{- end }}{{- if .header }} fake-header-table {{- end }}{{- if .bg }} schedule-bg-{{ .bg }} {{- end }}">
+            <td align="right" style="width:15%;text-align:right">
+                <strong>{{ .date }}</strong>{{- if and (.session) (.date) }}<br>{{- end }}{{- if .session }}
+                <small>({{.session}})</small>{{- end }}</td>
+            <td style="width:61%;text-align:left">{{ .title | markdownify }}</td>
+
+            {{- if .header }}
+
+            <td style="width:8%;text-align:center" class="mid-table-header">Class</td>
+            <td style="width:8%;text-align:center" class="mid-table-header">Assignment</td>
+
+            {{- else }}
+
+            {{- if .class }}
+            <td align="center" style="width:10%;text-align:center"><a
+                    href="{{ .Site.baseurl }}/class/{{ .class }}/">
+                    <i class="fas fa-chalkboard-teacher fa-lg"></i></a></td>
+            {{- else }}
+            <td align="center" style="width:10%;text-align:center">
+                <font color="f1f1f1">
+                    <i class="fas fa-chalkboard-teacher fa-lg"></i></font>
+            </td>
+            {{- end }}
+
+            {{- if .assignment }}
+            <td align="center" style="width:10%;text-align:center"><a
+                    href="{{ .Site.baseurl }}/assignment/{{ .assignment }}/">
+                    <i class="far fa-file-alt fa-lg"></i></a></td>
+            {{- else }}
+            <td align="center" style="width:10%;text-align:center">
+                <font color="f1f1f1">
+                    <i class="far fa-file-alt fa-lg"></i></font>
+            </td>
+            {{- end }}
+
+            {{- end }}
+        </tr>
+        {{- end }}
+        {{- end }}
+
+    </tbody>
+
+</table>

@@ -1,0 +1,11 @@
+# Font style metadata
+name: Jost + Barlow
+
+# Optional Google font URL
+google_fonts: 'Jost:400,400i,700,700i|Barlow:ital,wght@0,400;0,700;1,400;1,700'
+
+# Font families
+heading_font: Jost
+body_font: Barlow
+nav_font: Barlow
+mono_font: 'Consolas, "Liberation Mono", Menlo, Courier, monospace'

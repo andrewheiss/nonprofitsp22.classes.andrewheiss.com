@@ -1,0 +1,22 @@
+# Theme metadata
+name: "Hiroshige"
+
+# Is theme light or dark?
+light: true
+
+# Primary
+primary: "#e76254"
+
+# Links
+link: "#e76254"
+link_hover: "#ffd06f"
+
+# Menu
+menu_primary: "#fff"
+menu_text: "#e76254"
+menu_text_active: "#1e466e"
+menu_title: "#494949"
+
+# Home sections
+home_section_odd: "rgb(255, 255, 255)"
+home_section_even: "rgb(247, 247, 247)"

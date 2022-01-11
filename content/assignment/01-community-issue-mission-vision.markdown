@@ -1,0 +1,56 @@
+---
+title: "Community, issue, mission, and vision"
+linktitle: "Community, issue, mission, and vision"
+date: "2022-02-04"
+due_date: "2022-02-04"
+due_time: "11:59 PM"
+menu:
+  assignment:
+    parent: Team assignments
+    weight: 1
+type: docs
+toc: true
+editor_options: 
+  chunk_output_type: console
+---
+
+
+## Instructions
+
+You will write a 7-page (≈1,750 words) paper covering two related topics. Use headings and subheadings in your document so that it is easy to follow and recognize each of the parts.
+
+### 1: Community and issue
+
+As a team, identify a community you want your nonprofit to work with and a specific issue you would like to address. Write a 5-page paper (≈1,250 words) providing background ifnormation on the community and the issue you'll be working with. The community can be local or international—it could be based in downtown Atlanta, Alaska, or Afghanistan.
+
+You need to justify why you're working with this issue and provide at least 4 references from academic journals about the community and issue. Cite your sources using APA or Chicago guidelines.[^zotero]
+
+Acceptable journals include, but are not limited to, *Nonprofit and Voluntary Sector Quarterly*, *VOLUNTAS*, *Nonprofit Management & Leadership*, *Human Service Organizations*, *Public Administration Review*, *Review of Public Personnel Administration*, and *Administration & Society*. If you have any questions about sources, ask me!
+
+[^zotero]: Check out [Zotero](https://www.zotero.org/) for automatically formatting your references!
+
+### 2. Mission and vision
+
+Now that you have identified the community and issue your nonprofit will address, as a team, do the following:
+
+1. Create a name for your nonprofit
+2. Write a mission statement
+3. Write a vision statement
+
+Make sure you follow the guidelines from [the readings from class](https://nonprofitsp22.classes.andrewheiss.com/class/05-class/).
+
+Your vision statement should connect directly to your research on the community and issue you've selected and describe how it hopes to address those issues.
+
+This section should be around 2 pages (≈500 words).
+
+
+## Turning it in
+
+Submit the paper as a Word document or a PDF to iCollege. Do not submit a link to a Google document—if you use Google Docs, export the document as a Word or PDF file first and submit that.
+
+Since this is a team assignment, only one copy of the assignment needs to be submitted.
+
+
+## Grading
+
+I will grade this paper using rubric that I will provide later.

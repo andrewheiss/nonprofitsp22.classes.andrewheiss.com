@@ -1,0 +1,34 @@
+main:
+  - name: Syllabus
+    url: /syllabus/
+    weight: 1
+  - name: Schedule
+    url: /schedule/
+    weight: 2
+  - name: Classes
+    url: /class/
+    weight: 3
+  - name: Assignments
+    url: /assignment/
+    weight: 4
+  # - name: Resources
+  #   url: /resource/
+  #   weight: 6
+
+class:
+  - name: Overview
+    weight: 1
+  - name: Classes
+    weight: 2
+
+assignment:
+  - name: Assignments
+    weight: 1
+  - name: Individual assignments
+    weight: 2
+  - name: Team assignments
+    weight: 3
+
+resource:
+  - name: Resources
+    weight: 1

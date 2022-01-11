@@ -1,0 +1,218 @@
+lessons:
+  - title: 'Nonprofits and communities'
+    header: True
+
+  - title: '<span class="content-title">Course overview and introduction to the nonprofit sector</span>'
+    date: "January 11"
+    class: "01-class"
+    bg: 1
+    bottomborder: True
+
+  - title: '<span class="content-title">Defining and describing the nonprofit sector</span>'
+    date: "January 13"
+    class: "02-class"
+    bg: 1
+    bottomborder: True
+  
+  - title: '<span class="content-title">History and theory of the nonprofit sector</span>'
+    date: "January 18"
+    class: "03-class"
+    bg: 1
+    bottomborder: True
+
+  - title: '<span class="content-title team"><i class="fas fa-user-friends"></i> Practice: Cause and community</span>'
+    date: "January 20"
+    class: "04-class"
+    bg: 2
+    bottomborder: True
+
+  - title: '<span class="content-title assignment"><i class="fas fa-star"></i> Why nonprofits?&emsp;&emsp;</span><small>(submit by 11:59 PM)</small>'
+    date: "January 21"
+    assignment: "01-why-nonprofits"
+    bg: 3
+    bottomborder: True
+
+  - title: '<span class="content-title">Mission and vision statements</span>'
+    date: "January 25"
+    class: "05-class"
+    bg: 1
+    bottomborder: True
+
+  - title: '<span class="content-title team"><i class="fas fa-user-friends"></i> Practice: Mission and vision statements</span>'
+    date: "January 27"
+    class: "06-class"
+    bg: 2
+    bottomborder: True
+
+  - title: 'Organization'
+    header: True
+
+  - title: '<span class="content-title">Regulatory issues</span>'
+    date: "February 1"
+    class: "07-class"
+    bg: 1
+    bottomborder: True
+
+  - title: '<span class="content-title team"><i class="fas fa-user-friends"></i> Practice: Regulatory issues</span>'
+    date: "February 3"
+    class: "08-class"
+    bg: 2
+    bottomborder: True
+  
+  - title: '<span class="content-title assignment"><i class="fas fa-star"></i> Community, issue, mission, and vision&emsp;&emsp;</span><small>(submit by 11:59 PM)</small>'
+    date: "February 4"
+    assignment: "01-community-issue-mission-vision"
+    bg: 3
+    bottomborder: True
+
+  - title: '<span class="content-title">Board governance</span>'
+    date: "February 8"
+    class: "09-class"
+    bg: 1
+    bottomborder: True
+
+  - title: '<span class="content-title team"><i class="fas fa-user-friends"></i> Practice: Board governance</span>'
+    date: "February 10"
+    class: "10-class"
+    bg: 2
+    bottomborder: True
+
+  - title: '<span class="content-title">Personnel</span>'
+    date: "February 15"
+    class: "11-class"
+    bg: 1
+    bottomborder: True
+
+  - title: '<span class="content-title team"><i class="fas fa-user-friends"></i> Practice: Personnel</span>'
+    date: "February 17"
+    class: "12-class"
+    bg: 2
+    bottomborder: True
+
+  - title: '<span class="content-title assignment"><i class="fas fa-star"></i> Organizational structure&emsp;&emsp;</span><small>(submit by 11:59 PM)</small>'
+    date: "February 18"
+    assignment: "02-organizational-structure"
+    bg: 3
+    bottomborder: True
+
+  - title: 'Budgeting and marketing'
+    header: True
+
+  - title: '<span class="content-title">Fundraising</span>'
+    date: "February 22"
+    class: "13-class"
+    bg: 1
+    bottomborder: True
+
+  - title: '<span class="content-title team"><i class="fas fa-user-friends"></i> Practice: Fundraising</span>'
+    date: "February 24"
+    class: "14-class"
+    bg: 2
+    bottomborder: True
+
+  - title: '<span class="content-title">Budgeting and financial management</span>'
+    date: "March 1"
+    class: "15-class"
+    bg: 1
+    bottomborder: True
+
+  - title: '<span class="content-title team"><i class="fas fa-user-friends"></i> Practice: Budgeting and financial management</span>'
+    date: "March 3"
+    class: "16-class"
+    bg: 2
+    bottomborder: True
+  
+  - title: '<span class="content-title assignment"><i class="fas fa-star"></i> Revenue plan and budget&emsp;&emsp;</span><small>(submit by 11:59 PM)</small>'
+    date: "March 4"
+    assignment: "03-budget-revenue-plan"
+    bg: 3
+    bottomborder: True
+
+  - title: '<span class="content-title">Marketing</span>'
+    date: "March 8"
+    class: "17-class"
+    bg: 1
+    bottomborder: True
+
+  - title: '<span class="content-title team"><i class="fas fa-user-friends"></i> Practice: Marketing</span>'
+    date: "March 10"
+    class: "18-class"
+    bg: 2
+    bottomborder: True
+
+  - title: '<span class="content-title">PR, communications, and the internet</span>'
+    date: "March 22"
+    class: "19-class"
+    bg: 1
+    bottomborder: True
+
+  - title: '<span class="content-title team"><i class="fas fa-user-friends"></i> Practice: PR, communications, and the internet</span>'
+    date: "March 24"
+    class: "20-class"
+    bg: 2
+    bottomborder: True
+
+  - title: '<span class="content-title assignment"><i class="fas fa-star"></i> Fundraising and marketing&emsp;&emsp;</span><small>(submit by 11:59 PM)</small>'
+    date: "March 25"
+    assignment: "04-grant-marketing"
+    bg: 3
+    bottomborder: True
+
+  - title: 'Issues in nonprofit management'
+    header: True
+
+  - title: '<span class="content-title">Diversity in the public sector</span>'
+    date: "March 29"
+    class: "21-class"
+    bg: 1
+    bottomborder: True
+
+  - title: '<span class="content-title team"><i class="fas fa-user-friends"></i> Practice: Diversity in the public sector</span>'
+    date: "March 31"
+    class: "22-class"
+    bg: 2
+    bottomborder: True
+
+  - title: '<span class="content-title">Ethics</span>'
+    date: "April 5"
+    class: "23-class"
+    bg: 1
+    bottomborder: True
+
+  - title: '<span class="content-title team"><i class="fas fa-user-friends"></i> Practice: Ethics</span>'
+    date: "April 7"
+    class: "24-class"
+    bg: 2
+    bottomborder: True
+
+  - title: '<span class="content-title assignment"><i class="fas fa-star"></i> Diversity strategy&emsp;&emsp;</span><small>(submit by 11:59 PM)</small>'
+    date: "April 8"
+    assignment: "05-dei"
+    bg: 3
+    bottomborder: True
+
+  - title: '<span class="content-title">International nonprofits</span>'
+    date: "April 12"
+    class: "25-class"
+    bg: 1
+    bottomborder: True
+
+  - title: '<span class="fake-header-table">Final</span>'
+    header: True
+
+  - title: '<span class="content-title team"><i class="fas fa-user-friends"></i> Team day</span>'
+    date: "April 14"
+    class: "26-class"
+    bg: 2
+    bottomborder: True
+
+  - title: '<span class="content-title">Final presentations</span>'
+    date: "April 19"
+    class: "27-class"
+    bg: 1
+    bottomborder: True
+
+  - title: '<span class="content-title assignment"><i class="fas fa-star"></i> Final project due&emsp;&emsp;</span><small>(submit by 11:59 PM)</small>'
+    date: "May 2"
+    assignment: "final-project"
+    bg: 3

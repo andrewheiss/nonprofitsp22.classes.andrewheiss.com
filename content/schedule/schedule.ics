@@ -1,0 +1,244 @@
+BEGIN:VCALENDAR
+PRODID:ATFutures/calendar
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ical-32072b9e-4bc1-4f9f-afb6-a953248802b0
+DTSTART;VALUE=DATE:20220111
+DTEND;VALUE=DATE:20220112
+SUMMARY:PMAP 8521: Course overview and introduction to the nonprofit sector
+DESCRIPTION:https://nonprofitsp22.classes.andrewheiss.com/class/01-class/
+END:VEVENT
+BEGIN:VEVENT
+UID:ical-e041e6eb-33a2-43a2-b37d-e34044fe75bb
+DTSTART;VALUE=DATE:20220113
+DTEND;VALUE=DATE:20220114
+SUMMARY:PMAP 8521: Defining and describing the nonprofit sector
+DESCRIPTION:https://nonprofitsp22.classes.andrewheiss.com/class/02-class/
+END:VEVENT
+BEGIN:VEVENT
+UID:ical-81b99acf-abac-461e-b4f2-cca8ca3cf80a
+DTSTART;VALUE=DATE:20220118
+DTEND;VALUE=DATE:20220119
+SUMMARY:PMAP 8521: History and theory of the nonprofit sector
+DESCRIPTION:https://nonprofitsp22.classes.andrewheiss.com/class/03-class/
+END:VEVENT
+BEGIN:VEVENT
+UID:ical-eb77beb0-1ecb-424f-a9f2-978157fa5c28
+DTSTART;VALUE=DATE:20220120
+DTEND;VALUE=DATE:20220121
+SUMMARY:PMAP 8521: Practice: Cause and community
+DESCRIPTION:https://nonprofitsp22.classes.andrewheiss.com/class/04-class/
+END:VEVENT
+BEGIN:VEVENT
+UID:ical-41f9eed3-68cd-4619-960d-a0a2a2351ccc
+DTSTART;VALUE=DATE:20220121
+DTEND;VALUE=DATE:20220122
+SUMMARY:PMAP 8521: Why nonprofits? (submit by 11:59 PM)
+DESCRIPTION:https://nonprofitsp22.classes.andrewheiss.com/assignment/01-why-nonprofits/
+END:VEVENT
+BEGIN:VEVENT
+UID:ical-6d1c6fc0-7ddd-481b-b8c5-e746130d1266
+DTSTART;VALUE=DATE:20220125
+DTEND;VALUE=DATE:20220126
+SUMMARY:PMAP 8521: Mission and vision statements
+DESCRIPTION:https://nonprofitsp22.classes.andrewheiss.com/class/05-class/
+END:VEVENT
+BEGIN:VEVENT
+UID:ical-b54da6d0-1e24-4073-8f0e-00aa8fb67290
+DTSTART;VALUE=DATE:20220127
+DTEND;VALUE=DATE:20220128
+SUMMARY:PMAP 8521: Practice: Mission and vision statements
+DESCRIPTION:https://nonprofitsp22.classes.andrewheiss.com/class/06-class/
+END:VEVENT
+BEGIN:VEVENT
+UID:ical-4a6d620b-73ff-4b96-a0b8-792357166287
+DTSTART;VALUE=DATE:20220201
+DTEND;VALUE=DATE:20220202
+SUMMARY:PMAP 8521: Regulatory issues
+DESCRIPTION:https://nonprofitsp22.classes.andrewheiss.com/class/07-class/
+END:VEVENT
+BEGIN:VEVENT
+UID:ical-9d62f023-5e6e-41e7-9ce2-fb91cf54bb93
+DTSTART;VALUE=DATE:20220203
+DTEND;VALUE=DATE:20220204
+SUMMARY:PMAP 8521: Practice: Regulatory issues
+DESCRIPTION:https://nonprofitsp22.classes.andrewheiss.com/class/08-class/
+END:VEVENT
+BEGIN:VEVENT
+UID:ical-6404a0ef-b973-442a-aa7c-ae4803c4d162
+DTSTART;VALUE=DATE:20220204
+DTEND;VALUE=DATE:20220205
+SUMMARY:PMAP 8521: Community, issue, mission, and vision (submit by 11:59 PM)
+DESCRIPTION:https://nonprofitsp22.classes.andrewheiss.com/assignment/01-community-issue-mission-vision/
+END:VEVENT
+BEGIN:VEVENT
+UID:ical-003fc1a5-3437-4d1e-a0d7-7e6966aa8000
+DTSTART;VALUE=DATE:20220208
+DTEND;VALUE=DATE:20220209
+SUMMARY:PMAP 8521: Board governance
+DESCRIPTION:https://nonprofitsp22.classes.andrewheiss.com/class/09-class/
+END:VEVENT
+BEGIN:VEVENT
+UID:ical-6d5f86b4-b77d-465f-b4b7-a14535c9a77e
+DTSTART;VALUE=DATE:20220210
+DTEND;VALUE=DATE:20220211
+SUMMARY:PMAP 8521: Practice: Board governance
+DESCRIPTION:https://nonprofitsp22.classes.andrewheiss.com/class/10-class/
+END:VEVENT
+BEGIN:VEVENT
+UID:ical-37d00b38-5992-46bf-b370-249777f37e37
+DTSTART;VALUE=DATE:20220215
+DTEND;VALUE=DATE:20220216
+SUMMARY:PMAP 8521: Personnel
+DESCRIPTION:https://nonprofitsp22.classes.andrewheiss.com/class/11-class/
+END:VEVENT
+BEGIN:VEVENT
+UID:ical-d07982a4-b661-4f02-94c3-0554e841257c
+DTSTART;VALUE=DATE:20220217
+DTEND;VALUE=DATE:20220218
+SUMMARY:PMAP 8521: Practice: Personnel
+DESCRIPTION:https://nonprofitsp22.classes.andrewheiss.com/class/12-class/
+END:VEVENT
+BEGIN:VEVENT
+UID:ical-78bea236-8993-408f-87dc-d062634e03da
+DTSTART;VALUE=DATE:20220218
+DTEND;VALUE=DATE:20220219
+SUMMARY:PMAP 8521: Organizational structure (submit by 11:59 PM)
+DESCRIPTION:https://nonprofitsp22.classes.andrewheiss.com/assignment/02-organizational-structure/
+END:VEVENT
+BEGIN:VEVENT
+UID:ical-8fd1cb0e-dec9-4fa8-bde9-e440cfc0b342
+DTSTART;VALUE=DATE:20220222
+DTEND;VALUE=DATE:20220223
+SUMMARY:PMAP 8521: Fundraising
+DESCRIPTION:https://nonprofitsp22.classes.andrewheiss.com/class/13-class/
+END:VEVENT
+BEGIN:VEVENT
+UID:ical-813cc509-3bee-48a1-a652-60a191ff4650
+DTSTART;VALUE=DATE:20220224
+DTEND;VALUE=DATE:20220225
+SUMMARY:PMAP 8521: Practice: Fundraising
+DESCRIPTION:https://nonprofitsp22.classes.andrewheiss.com/class/14-class/
+END:VEVENT
+BEGIN:VEVENT
+UID:ical-2fbf28d8-3326-4085-ae9b-c34a131df7fa
+DTSTART;VALUE=DATE:20220301
+DTEND;VALUE=DATE:20220302
+SUMMARY:PMAP 8521: Budgeting and financial management
+DESCRIPTION:https://nonprofitsp22.classes.andrewheiss.com/class/15-class/
+END:VEVENT
+BEGIN:VEVENT
+UID:ical-c921ffc0-79d8-4c60-b020-b8ae87c8fe86
+DTSTART;VALUE=DATE:20220303
+DTEND;VALUE=DATE:20220304
+SUMMARY:PMAP 8521: Practice: Budgeting and financial management
+DESCRIPTION:https://nonprofitsp22.classes.andrewheiss.com/class/16-class/
+END:VEVENT
+BEGIN:VEVENT
+UID:ical-11230797-7e6d-4743-8f18-2284e7ebea2c
+DTSTART;VALUE=DATE:20220304
+DTEND;VALUE=DATE:20220305
+SUMMARY:PMAP 8521: Revenue plan and budget (submit by 11:59 PM)
+DESCRIPTION:https://nonprofitsp22.classes.andrewheiss.com/assignment/03-budget-revenue-plan/
+END:VEVENT
+BEGIN:VEVENT
+UID:ical-217bda7d-4088-48c0-9326-cacb9333af87
+DTSTART;VALUE=DATE:20220308
+DTEND;VALUE=DATE:20220309
+SUMMARY:PMAP 8521: Marketing
+DESCRIPTION:https://nonprofitsp22.classes.andrewheiss.com/class/17-class/
+END:VEVENT
+BEGIN:VEVENT
+UID:ical-786ff9f8-e176-429d-aa71-7dd5501ed1b5
+DTSTART;VALUE=DATE:20220310
+DTEND;VALUE=DATE:20220311
+SUMMARY:PMAP 8521: Practice: Marketing
+DESCRIPTION:https://nonprofitsp22.classes.andrewheiss.com/class/18-class/
+END:VEVENT
+BEGIN:VEVENT
+UID:ical-78f5e3f5-7b5b-4c88-b3c9-b6b6ef216cb1
+DTSTART;VALUE=DATE:20220322
+DTEND;VALUE=DATE:20220323
+SUMMARY:PMAP 8521: PR, communications, and the internet
+DESCRIPTION:https://nonprofitsp22.classes.andrewheiss.com/class/19-class/
+END:VEVENT
+BEGIN:VEVENT
+UID:ical-4a882b84-0487-4c73-a54b-d390c705908e
+DTSTART;VALUE=DATE:20220324
+DTEND;VALUE=DATE:20220325
+SUMMARY:PMAP 8521: Practice: PR, communications, and the internet
+DESCRIPTION:https://nonprofitsp22.classes.andrewheiss.com/class/20-class/
+END:VEVENT
+BEGIN:VEVENT
+UID:ical-fc63b9eb-3b44-44e7-89d0-7877a5cf8b29
+DTSTART;VALUE=DATE:20220325
+DTEND;VALUE=DATE:20220326
+SUMMARY:PMAP 8521: Fundraising and marketing (submit by 11:59 PM)
+DESCRIPTION:https://nonprofitsp22.classes.andrewheiss.com/assignment/04-grant-marketing/
+END:VEVENT
+BEGIN:VEVENT
+UID:ical-5f707e2a-6938-4223-897e-20dd5cbf84c1
+DTSTART;VALUE=DATE:20220329
+DTEND;VALUE=DATE:20220330
+SUMMARY:PMAP 8521: Diversity in the public sector
+DESCRIPTION:https://nonprofitsp22.classes.andrewheiss.com/class/21-class/
+END:VEVENT
+BEGIN:VEVENT
+UID:ical-1dc1fb86-ee0f-4c04-8bae-93eb694da0ca
+DTSTART;VALUE=DATE:20220331
+DTEND;VALUE=DATE:20220401
+SUMMARY:PMAP 8521: Practice: Diversity in the public sector
+DESCRIPTION:https://nonprofitsp22.classes.andrewheiss.com/class/22-class/
+END:VEVENT
+BEGIN:VEVENT
+UID:ical-4f78567a-7155-4dda-b2bf-b452c4bba15e
+DTSTART;VALUE=DATE:20220405
+DTEND;VALUE=DATE:20220406
+SUMMARY:PMAP 8521: Ethics
+DESCRIPTION:https://nonprofitsp22.classes.andrewheiss.com/class/23-class/
+END:VEVENT
+BEGIN:VEVENT
+UID:ical-1124fb4e-5577-4925-b631-dc633ac518c5
+DTSTART;VALUE=DATE:20220407
+DTEND;VALUE=DATE:20220408
+SUMMARY:PMAP 8521: Practice: Ethics
+DESCRIPTION:https://nonprofitsp22.classes.andrewheiss.com/class/24-class/
+END:VEVENT
+BEGIN:VEVENT
+UID:ical-5d1c7a8e-ecf0-4468-bd4c-5bf3dcd6060b
+DTSTART;VALUE=DATE:20220408
+DTEND;VALUE=DATE:20220409
+SUMMARY:PMAP 8521: Diversity strategy (submit by 11:59 PM)
+DESCRIPTION:https://nonprofitsp22.classes.andrewheiss.com/assignment/05-dei/
+END:VEVENT
+BEGIN:VEVENT
+UID:ical-76f1a107-3598-44e1-a6e3-472c3eb72ac2
+DTSTART;VALUE=DATE:20220412
+DTEND;VALUE=DATE:20220413
+SUMMARY:PMAP 8521: International nonprofits
+DESCRIPTION:https://nonprofitsp22.classes.andrewheiss.com/class/25-class/
+END:VEVENT
+BEGIN:VEVENT
+UID:ical-d0a4ce40-8388-4cf3-9783-265fe44efaed
+DTSTART;VALUE=DATE:20220414
+DTEND;VALUE=DATE:20220415
+SUMMARY:PMAP 8521: Team day
+DESCRIPTION:https://nonprofitsp22.classes.andrewheiss.com/class/26-class/
+END:VEVENT
+BEGIN:VEVENT
+UID:ical-6619254e-2229-46d2-9ff6-000fee51de89
+DTSTART;VALUE=DATE:20220419
+DTEND;VALUE=DATE:20220420
+SUMMARY:PMAP 8521: Final presentations
+DESCRIPTION:https://nonprofitsp22.classes.andrewheiss.com/class/27-class/
+END:VEVENT
+BEGIN:VEVENT
+UID:ical-3743a1c8-1e3a-40e1-91c5-061a7e5f763f
+DTSTART;VALUE=DATE:20220502
+DTEND;VALUE=DATE:20220503
+SUMMARY:PMAP 8521: Final project due (submit by 11:59 PM)
+DESCRIPTION:https://nonprofitsp22.classes.andrewheiss.com/assignment/final-project/
+END:VEVENT
+END:VCALENDAR
