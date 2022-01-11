@@ -463,6 +463,16 @@ class: title title-3
 
 ---
 
+# Superheroes
+
+.center[
+<figure>
+  <img src="img/01/thor.jpg" alt="Thor from Thor: Ragnarok" title="Thor from Thor: Ragnarok" width="80%">
+</figure>
+]
+
+---
+
 # Class goals
 
 --
