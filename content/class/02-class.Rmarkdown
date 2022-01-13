@@ -17,21 +17,32 @@ slides: "02-slides"
 ```{r slides, echo=FALSE, include=FALSE}
 source(here::here("R", "slide-tabs.R"))
 
-playlist_id <- "PLS6tnpTr39sHcnk9KcoQVzDywxWRzVWHC"
-
 slide_details <- tibble::tribble(
   ~title, ~slide, ~active,
   "Introduction", "1", TRUE,
-  "Data science and public service", "ds-ps", FALSE,
-  "Evidence, evaluation, and causation (1)", "evidence-evaluation-causation", FALSE,
-  "Evidence, evaluation, and causation (2)", "evidence-evaluation-causation1", FALSE,
-  "Class details", "class-details", FALSE
+  "The universe of nonprofits", "universe-nonprofits", FALSE,
+  "Problems with nonprofits", "problems-nonprofits", FALSE
 )
 ```
 
 ## Readings
 
 - <i class="fas fa-book"></i> Chapter 1 in Grobman, *An Introduction to the Nonprofit Sector* [@Grobman:2021]
+- <i class="fas fa-video"></i> Dan Pallotta, ["The way we think about charity is dead wrong"](https://www.ted.com/talks/dan_pallotta_the_way_we_think_about_charity_is_dead_wrong?language=en)
+
+
+## Written response question
+
+This time there are two parts, one short and one longer. 
+
+1. What social issue or type of nonprofit are you most interested in? (**This should just a sentence or two!; this is just to help me sort you into teams.**)
+
+2. Why did so many of the "robber barons" from the late 19th/early 20th century (Carnegie, Rockefeller, etc.) donate to create nonprofit organizations and foundations, rather than keep all their money for themselves and their families? What parallels do you see between them and modern-day billionaire philanthropists like Bill and Melinda Gates, Jeff Bezos, and so on? (**This is the main written response, and should be ≈150 words.**)
+
+
+## In-class stuff
+
+- [<i class="fas fa-file-excel"></i> Marginal tax rate and donations calculator](/files/progressive-tax-calcuation.xlsx)
 
 
 ## Slides
@@ -41,7 +52,7 @@ The slides for today's class are available online as an HTML file. Use the butto
 `r blogdown::shortcode("slide-buttons")`
 
 ```{r show-slide-tabs, echo=FALSE, results="asis"}
-# slide_tabs(slide_details, "/slides/02-slides.html")
+slide_tabs(slide_details, "/slides/02-slides.html")
 ```
 
 {{% div fyi %}}
