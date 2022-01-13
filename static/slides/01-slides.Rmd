@@ -27,6 +27,7 @@ knitr::opts_chunk$set(warning = FALSE, message = FALSE,
 
 ```{r packages-data, include=FALSE}
 library(countdown)
+set.seed(1234)
 ```
 
 ```{r xaringanExtra, echo=FALSE}
