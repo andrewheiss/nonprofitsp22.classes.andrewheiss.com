@@ -17,21 +17,30 @@ slides: "05-slides"
 ```{r slides, echo=FALSE, include=FALSE}
 source(here::here("R", "slide-tabs.R"))
 
-playlist_id <- "PLS6tnpTr39sHcnk9KcoQVzDywxWRzVWHC"
-
 slide_details <- tibble::tribble(
   ~title, ~slide, ~active,
   "Introduction", "1", TRUE,
-  "Data science and public service", "ds-ps", FALSE,
-  "Evidence, evaluation, and causation (1)", "evidence-evaluation-causation", FALSE,
-  "Evidence, evaluation, and causation (2)", "evidence-evaluation-causation1", FALSE,
-  "Class details", "class-details", FALSE
+  "What are mission and vision statements?", "what-are", FALSE,
+  "How do we make good mission and vision statements?", "how-make", FALSE
 )
 ```
 
 ## Readings
 
 - <i class="fas fa-book"></i> Chapter 6 in Grobman, *An Introduction to the Nonprofit Sector* [@Grobman:2021]
+- <i class="fas fa-file-pdf"></i> James C. Collins and Jerry I. Porras, ["Building Your Company's Vision"](https://cpb-us-e1.wpmucdn.com/sites.uw.edu/dist/0/1149/files/2018/10/HBR-Article-Core-Purpose-and-Values-1xxgxio.pdf) [@CollinsPorras:1996]
+
+
+## Written response question
+
+Do you think that in practice, a mission statement can ever be truly effective in constraining the expansion of activities of a nonprofit organization? Why or why not? (Answer in ≈150 words.)
+
+
+## Possible mission, vision, and values guidelines
+
+Here's a rubric I use for evaluating the mission/vision/values statements of nonprofits. You might find it helpful when developing your own organization's mission and vision.
+
+- <i class="fas fa-file-excel"></i> [Mission, vision, and values rubric for nonprofits](/files/mission-vision-values-rubric.xlsx)
 
 
 ## Slides
@@ -41,7 +50,7 @@ The slides for today's class are available online as an HTML file. Use the butto
 `r blogdown::shortcode("slide-buttons")`
 
 ```{r show-slide-tabs, echo=FALSE, results="asis"}
-# slide_tabs(slide_details, "/slides/02-slides.html")
+slide_tabs(slide_details, "/slides/05-slides.html")
 ```
 
 {{% div fyi %}}

@@ -17,21 +17,24 @@ slides: "03-slides"
 ```{r slides, echo=FALSE, include=FALSE}
 source(here::here("R", "slide-tabs.R"))
 
-playlist_id <- "PLS6tnpTr39sHcnk9KcoQVzDywxWRzVWHC"
-
 slide_details <- tibble::tribble(
   ~title, ~slide, ~active,
   "Introduction", "1", TRUE,
-  "Data science and public service", "ds-ps", FALSE,
-  "Evidence, evaluation, and causation (1)", "evidence-evaluation-causation", FALSE,
-  "Evidence, evaluation, and causation (2)", "evidence-evaluation-causation1", FALSE,
-  "Class details", "class-details", FALSE
+  "Theory", "theory", FALSE,
+  "History", "history", FALSE
 )
 ```
 
 ## Readings
 
 - <i class="fas fa-book"></i> Chapters 2 and 3 in Grobman, *An Introduction to the Nonprofit Sector* [@Grobman:2021]
+
+
+## Written response question
+
+Explore this question in ≈150 words, based on your readings for today:
+
+> Do you think that the growth of federal spending for the welfare state in the mid-20th century (for instance, under Lyndon B. Johnson's War on Poverty) stimulated or hindered the growth of the nonprofit sector in the United States? What other social consequences have there been as a result of turning to nonprofits for welfare services?
 
 
 ## Slides
@@ -41,7 +44,7 @@ The slides for today's class are available online as an HTML file. Use the butto
 `r blogdown::shortcode("slide-buttons")`
 
 ```{r show-slide-tabs, echo=FALSE, results="asis"}
-# slide_tabs(slide_details, "/slides/02-slides.html")
+slide_tabs(slide_details, "/slides/03-slides.html")
 ```
 
 {{% div fyi %}}

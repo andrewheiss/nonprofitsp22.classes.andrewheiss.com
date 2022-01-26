@@ -21,9 +21,9 @@ You will write a 7-page (≈1,750 words) paper covering two related topics. Use 
 
 ### 1: Community and issue
 
-As a team, identify a community you want your nonprofit to work with and a specific issue you would like to address. Write a 5-page paper (≈1,250 words) providing background ifnormation on the community and the issue you'll be working with. The community can be local or international—it could be based in downtown Atlanta, Alaska, or Afghanistan.
+As a team, identify a community you want your nonprofit to work with and a specific issue you would like to address. Write a 5-page paper (≈1,250 words) providing background information on the community and the issue you'll be working with. The community can be local or international—it could be based in downtown Atlanta, Alaska, or Afghanistan.
 
-You need to justify why you're working with this issue and provide at least 4 references from academic journals about the community and issue. Cite your sources using APA or Chicago guidelines.[^zotero]
+You need to justify (1) why you're working with this issue and (2) why a nonprofit organization is the best solution, based on your readings about nonprofit theory. You must also provide at least 4 references from academic journals about the community and issue. Cite your sources using APA or Chicago guidelines.[^zotero]
 
 Acceptable journals include, but are not limited to, *Nonprofit and Voluntary Sector Quarterly*, *VOLUNTAS*, *Nonprofit Management & Leadership*, *Human Service Organizations*, *Public Administration Review*, *Review of Public Personnel Administration*, and *Administration & Society*. If you have any questions about sources, ask me!
 
