@@ -16,12 +16,37 @@ editor_options:
 
 ## Instructions
 
-Instructions TBA.
+You will write a ≈750-word paper covering two related topics. Use headings and subheadings in your document so that it is easy to follow and recognize each of the parts.
+
+### 1: Revenue sources
+
+In ≈500 words, describe how your organization will generate revenue. Will it raise funds from the public? Will it seek out grants from the government or from larger foundations? Justify your primary and secondary revenue sources and explain how these sources of money fit with the nonprofit's mission, vision, and values.
+
+### 2: Budget
+
+**Part 1:**
+
+Create a feasible, balanced budget for your nonprofit. The budget should include (but is not limited to!—don't just use these four categories!):
+
+- Revenue
+- Staffing expenses
+- Rent
+- Operating expenses (electricity, internet, office supplies, etc.)
+
+Create this budget in a spreadsheet program like Excel or Google Sheets. 
+
+**Part 2:**
+
+In ≈250 words, describe and justify this budget. What are some areas of concern you have? 
+
+**Part 3:**
+
+Create a copy of your budget (preferably as a new worksheet in the same document) that shows what your nonprofit would do if your main source of revenue was cut by 50%.
 
 
 ## Turning it in
 
-Submit the paper as a Word document or a PDF to iCollege. Do not submit a link to a Google document—if you use Google Docs, export the document as a Word or PDF file first and submit that.
+Submit (1) the paper as a Word document or a PDF and (2) the budget as an Excel file to iCollege. Do not submit a link to a Google document—if you use Google Docs, export the document as a Word or PDF file first and submit that.
 
 Since this is a team assignment, only one copy of the assignment needs to be submitted.
 

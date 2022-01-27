@@ -17,6 +17,11 @@ slides: "07-slides"
 ## Readings
 
 -   <i class="fas fa-book"></i> Chapter 4 in Grobman, *An Introduction to the Nonprofit Sector*[^1]
+-   <i class="fas fa-file-pdf"></i> Chapter 1 in W. Jeffrey Garson, Donald W. Kramer, and Roberta M. Snow, *Nonprofit Leadership & the Law*[^2] (the PDF for this is on iCollege under “Content”.)
+
+## Written response question
+
+Why did Congress prohibit tax-exempt charities from engaging in partisan political activity? Are there reasons to think that this prohibition is unwise in every case? Why did Congress prohibit “substantial lobbying” rather than all lobbying? Why is some amount of nonprofit political lobbying okay? (Answer in ≈150 words.)
 
 ## Slides
 
@@ -29,3 +34,5 @@ The slides for today’s class are available online as an HTML file. Use the but
 {{% /div %}}
 
 [^1]: Gary M. Grobman, *An Introduction to the Nonprofit Sector: A Practical Approach for the Twenty-First Century*, 6th ed. (Harrisburg, Pennsylvania: White Hat Communications, 2021).
+
+[^2]: W. Jeffrey Garson, Donald W. Kramer, and Roberta M. Snow, *Nonprofit Leadership & the Law: A Handbook for Boards and Executives* (Philadelphia: Philadelphia Volunteer Lawyers for the Arts, 2000).

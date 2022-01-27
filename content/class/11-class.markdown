@@ -17,6 +17,11 @@ slides: "11-slides"
 ## Readings
 
 -   <i class="fas fa-book"></i> Chapter 12 in Grobman, *An Introduction to the Nonprofit Sector*[^1]
+-   <i class="fas fa-external-link-alt"></i> Kristine Ensor, [“Nonprofit Organizational Charts: What are They and Why are They Vital?”](https://donorbox.org/nonprofit-blog/nonprofit-org-chart/)
+
+## Written response question
+
+Should volunteers be treated any differently by the organization than paid staff members? Should volunteers be held to a lower standard of job performance than their paid counterparts? (Answer in ≈150 words.)
 
 ## Slides
 

@@ -17,7 +17,8 @@ slides: "21-slides"
 ## Readings
 
 -   <i class="fas fa-book"></i> Chapter 13 in Grobman, *An Introduction to the Nonprofit Sector*[^1]
--   Other readings TBA
+-   <i class="fas fa-file-pdf"></i> Building Movement Project, [“On the Frontlines: Nonprofits Led by People of Color Confront COVID-19 and Structural Racism”](https://buildingmovement.org/wp-content/uploads/2020/10/On-the-Frontlines-COVID-Leaders-of-Color-Final-10.2.20.pdf)
+-   <i class="fas fa-file-pdf"></i> Seth J. Meyer, Elizabeth J. Dale, and Kareem K. M. Willis, “‘Where My Gays at?’ The Status of LGBTQ People and Queer Theory in Nonprofit Research”[^2] (the PDF for this is on iCollege under “Content”.)
 
 ## Slides
 
@@ -30,3 +31,5 @@ The slides for today’s class are available online as an HTML file. Use the but
 {{% /div %}}
 
 [^1]: Gary M. Grobman, *An Introduction to the Nonprofit Sector: A Practical Approach for the Twenty-First Century*, 6th ed. (Harrisburg, Pennsylvania: White Hat Communications, 2021).
+
+[^2]: Seth J. Meyer, Elizabeth J. Dale, and Kareem K. M. Willis, “"Where My Gays at?" The Status of LGBTQ People and Queer Theory in Nonprofit Research,” *Nonprofit and Voluntary Sector Quarterly*, 2021, 1–21, doi:[10.1177/08997640211021497](https://doi.org/10.1177/08997640211021497).

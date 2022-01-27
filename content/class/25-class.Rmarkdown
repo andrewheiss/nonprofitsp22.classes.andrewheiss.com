@@ -31,7 +31,13 @@ slide_details <- tibble::tribble(
 
 ## Readings
 
-- Readings TBA
+- <i class="fas fa-file-pdf"></i> Andrew Heiss, "NGOs and Authoritarianism" [@Heiss:2019] (the PDF for this is on iCollege under "Content".)
+- Chapter 1, "Your NGO Starter Kit" in William DeMars, *NGOs and Transnational Networks: Wild Cards in World Politics* [@DeMars:2005] (the PDF for this is on iCollege under "Content".)
+
+
+## Written response question
+
+How and for what reasons do countries (authoritarian or democratic) rely on NGOs? Is an international NGO working in an authoritarian regime complicit in any of its human rights abuses? (Answer in ≈150 words.)
 
 
 ## Slides

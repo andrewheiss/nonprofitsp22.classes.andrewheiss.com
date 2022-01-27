@@ -16,7 +16,35 @@ editor_options:
 
 ## Instructions
 
-Instructions TBA.
+You will write a ≈1,250ish-word paper covering three related topics. Use headings and subheadings in your document so that it is easy to follow and recognize each of the parts.
+
+### 1: Legal structure
+
+**Part 1:** 
+
+In ≈300 words, describe the legal structure for your organization. Include details about the following:
+
+- Which IRS subsection it qualifies under (501(c)(3), 501(c)(4), etc.) and why
+- If a 501(c)(3), which [NTEE-CC subsector](https://nccs.urban.org/project/national-taxonomy-exempt-entities-ntee-codes) it falls under and why
+- Whether the nonprofit will be a membership or a nonmembership organization and why
+
+**Part 2:**
+
+Follow the sample provided by Georgia's Office of Secretary of State ([see p. 3 here](https://sos.ga.gov/corporations/acrobat/applications/Filing%20Procedure%20-%20Corporation.pdf)) and create a set of draft Articles of Incorporation for your nonprofit. [See here for more details](https://www.nolo.com/legal-encyclopedia/forming-nonprofit-corporation-georgia-36059.html#four).
+
+
+### 2: Organizational structure
+
+As a team, create an organizational structure for your nonprofit. Describe what it will look like. Will it be run by volunteers? Will it have professional paid staff? 
+
+Create at least 4 job descriptions for volunteers and/or staff members, and create an organizational chart that shows the structure of the organization (consider using something like [Diagrams.net](https://www.diagrams.net/), [Lucidchart](https://www.lucidchart.com/pages/home), or [Creately](https://creately.com/) for this).
+
+Describe and justify your choices in ≈500 words.
+
+
+### 3: Board structure
+
+As a team, describe how your nonprofit's board of directors will be structured and justify why it is the best fit with your type of nonprofit. Do this in ≈400 words.
 
 
 ## Turning it in

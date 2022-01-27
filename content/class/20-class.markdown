@@ -18,4 +18,12 @@ slides: "20-slides"
 
 -   <i class="fas fa-book"></i> Case 6, “Public Relations Dilemma at the Harristown Hospital and Health System ,” in Grobman, *An Introduction to the Nonprofit Sector*[^1]
 
+## Written response question
+
+Two parts for today:
+
+1.  Describe a preliminary idea for a press release for your nonprofit. You’ll spend class time deciding on more formal plans.
+
+2.  Was the decision to agree to the terms of the surgeon appropriate? What other options did the management of HHHS have? (Answer in ≈75 words.)
+
 [^1]: Gary M. Grobman, *An Introduction to the Nonprofit Sector: A Practical Approach for the Twenty-First Century*, 6th ed. (Harrisburg, Pennsylvania: White Hat Communications, 2021).

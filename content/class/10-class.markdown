@@ -16,4 +16,12 @@ slides: "10-slides"
 
 ## Readings
 
--   Case study TBA
+-   <i class="fas fa-file-pdf"></i> Melissa Stone, “East Coast Orchestra’s Board of Trustees” (the PDF for this is on iCollege under “Content”.)
+
+## Written response question
+
+Two parts for today:
+
+1.  What type of board would be appropriate for your team’s nonprofit? Why is it the best fit with your type of nonprofit? You’ll spend class time deciding on the type and structure of your team’s nonprofit.
+
+2.  What board best practices did East Coast Orchestra fail to implement? What did they successfully implement? What do you think the organization should do to address the crisis? (Answer in ≈150 words.)

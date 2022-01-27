@@ -17,7 +17,11 @@ slides: "23-slides"
 ## Readings
 
 -   <i class="fas fa-book"></i> Chapter 7 in Grobman, *An Introduction to the Nonprofit Sector*[^1]
--   Other readings TBA
+-   <i class="fas fa-tv"></i> “The Trolley Problem”, *The Good Place* Season 2, Episode 5 (available on Netflix)
+
+## Written response question
+
+Should the nonprofit sector be held to a higher ethical standard than its for-profit counterpart? Why or why not? What about compared with the government sector? (Answer in ≈150 words.)
 
 ## Slides
 

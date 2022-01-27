@@ -32,6 +32,17 @@ slide_details <- tibble::tribble(
 ## Readings
 
 - <i class="fas fa-book"></i> Chapter 5 in Grobman, *An Introduction to the Nonprofit Sector* [@Grobman:2021]
+- <i class="fas fa-file-pdf"></i> Barbara E. Taylor, Richard P. Chait, and Thomas P. Holland, "The New Work of the Nonprofit Board" [@TaylorChaitHolland:1996] (you can [read this online here](https://hbr.org/1996/09/the-new-work-of-the-nonprofit-board); if you run into access issues, there's a PDF of the article on iCollege under "Content". *Do not buy this article—you can read it for free*)
+- <i class="fas fa-file-pdf"></i> Robert D. Herman and David O. Renz, "Board Practices of Especially Effective and Less Effective Local Nonprofit Organizations" [@HermanRenz:2000] (the PDF for this is on iCollege under "Content".)
+
+This is a helpful checklist that you'll want to review when working on your project. I'd recommend skimming it before class, but you don't need to read it in detail:
+
+- <i class="fas fa-file-pdf"></i> Chapter 4 in Peri H. Pakroo, *Starting & Building a Nonprofit* [@Pakroo:2021] (the PDF for this is on iCollege under "Content".)
+
+
+## Written response question
+
+You just read a bunch of research about what makes nonprofit boards effective. Make a list of the five practices that you find the most important and explain why nonprofits should implement them. (Answer in ≈150 words.)
 
 
 ## Slides
