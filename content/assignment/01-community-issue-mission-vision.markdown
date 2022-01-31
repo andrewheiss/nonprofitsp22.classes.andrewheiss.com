@@ -53,4 +53,6 @@ Since this is a team assignment, only one copy of the assignment needs to be sub
 
 ## Grading
 
-I will grade this paper using rubric that I will provide later.
+I will grade this assignment using this rubric: [`blank_community-issue-mission-vision.xlsx`](/files/blank_community-issue-mission-vision.xlsx)
+
+*(I'd highly recommend downloading the rubric and referencing at it as you work on your assignment!)*
