@@ -29,6 +29,55 @@ The slides for today’s class are available online as an HTML file. Use the but
 
 {{% slide-buttons %}}
 
+<ul class="nav nav-tabs" id="slide-tabs" role="tablist">
+<li class="nav-item">
+<a class="nav-link active" id="introduction-tab" data-toggle="tab" href="#introduction" role="tab" aria-controls="introduction" aria-selected="true">Introduction</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" id="incorporation-issues-tab" data-toggle="tab" href="#incorporation-issues" role="tab" aria-controls="incorporation-issues" aria-selected="false">Incorporation issues</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" id="money-issues-tab" data-toggle="tab" href="#money-issues" role="tab" aria-controls="money-issues" aria-selected="false">Money issues</a>
+</li>
+</ul>
+
+<div id="slide-tabs" class="tab-content">
+
+<div id="introduction" class="tab-pane fade show active" role="tabpanel" aria-labelledby="introduction-tab">
+
+<div class="embed-responsive embed-responsive-16by9">
+
+<iframe class="embed-responsive-item" src="/slides/07-slides.html#1">
+</iframe>
+
+</div>
+
+</div>
+
+<div id="incorporation-issues" class="tab-pane fade" role="tabpanel" aria-labelledby="incorporation-issues-tab">
+
+<div class="embed-responsive embed-responsive-16by9">
+
+<iframe class="embed-responsive-item" src="/slides/07-slides.html#incorporation">
+</iframe>
+
+</div>
+
+</div>
+
+<div id="money-issues" class="tab-pane fade" role="tabpanel" aria-labelledby="money-issues-tab">
+
+<div class="embed-responsive embed-responsive-16by9">
+
+<iframe class="embed-responsive-item" src="/slides/07-slides.html#money">
+</iframe>
+
+</div>
+
+</div>
+
+</div>
+
 {{% div fyi %}}
 **Fun fact**: If you type <kbd>?</kbd> (or <kbd>shift</kbd> + <kbd>/</kbd>) while going through the slides, you can see a list of special slide-specific commands.
 {{% /div %}}
