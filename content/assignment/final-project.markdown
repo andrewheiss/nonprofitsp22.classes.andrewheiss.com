@@ -26,7 +26,7 @@ During one of the last two days of class, your team will give a 15-minute presen
 
 Instead, treat this presentation as a pitch to a prominent charitable foundation that is interested in your issue and community. You’ll want to demonstrate that your organization is well designed, appropriately structured, and best positioned to address the issue.
 
-**Not every member of your team should present**—I’d recommend having two people present. This doesn’t mean that those two people should also be responsible for creating the slides and doing all the work for the presentation. The whole team should be involved—there just just be ≈2 speakers at the end.
+**Not every member of your team should present**—I’d recommend having two people present. This doesn’t mean that those two people should also be responsible for creating the slides and doing all the work for the presentation. The whole team should be involved—there should just be ≈2 speakers at the end.
 
 The presentation should be 12 minutes long, with 3 minutes for questions.
 
