@@ -17,8 +17,6 @@ slides: "07-slides"
 ```{r slides, echo=FALSE, include=FALSE}
 source(here::here("R", "slide-tabs.R"))
 
-playlist_id <- "PLS6tnpTr39sHcnk9KcoQVzDywxWRzVWHC"
-
 slide_details <- tibble::tribble(
   ~title, ~slide, ~active,
   "Introduction", "1", TRUE,

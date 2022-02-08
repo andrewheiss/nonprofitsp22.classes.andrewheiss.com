@@ -34,6 +34,55 @@ The slides for today’s class are available online as an HTML file. Use the but
 
 {{% slide-buttons %}}
 
+<ul class="nav nav-tabs" id="slide-tabs" role="tablist">
+<li class="nav-item">
+<a class="nav-link active" id="introduction-tab" data-toggle="tab" href="#introduction" role="tab" aria-controls="introduction" aria-selected="true">Introduction</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" id="what-do-boards-do-tab" data-toggle="tab" href="#what-do-boards-do" role="tab" aria-controls="what-do-boards-do" aria-selected="false">What do boards do?</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" id="what-makes-a-good-board-tab" data-toggle="tab" href="#what-makes-a-good-board" role="tab" aria-controls="what-makes-a-good-board" aria-selected="false">What makes a good board?</a>
+</li>
+</ul>
+
+<div id="slide-tabs" class="tab-content">
+
+<div id="introduction" class="tab-pane fade show active" role="tabpanel" aria-labelledby="introduction-tab">
+
+<div class="embed-responsive embed-responsive-16by9">
+
+<iframe class="embed-responsive-item" src="/slides/09-slides.html#1">
+</iframe>
+
+</div>
+
+</div>
+
+<div id="what-do-boards-do" class="tab-pane fade" role="tabpanel" aria-labelledby="what-do-boards-do-tab">
+
+<div class="embed-responsive embed-responsive-16by9">
+
+<iframe class="embed-responsive-item" src="/slides/09-slides.html#boards-do">
+</iframe>
+
+</div>
+
+</div>
+
+<div id="what-makes-a-good-board" class="tab-pane fade" role="tabpanel" aria-labelledby="what-makes-a-good-board-tab">
+
+<div class="embed-responsive embed-responsive-16by9">
+
+<iframe class="embed-responsive-item" src="/slides/09-slides.html#good-boards">
+</iframe>
+
+</div>
+
+</div>
+
+</div>
+
 {{% div fyi %}}
 **Fun fact**: If you type <kbd>?</kbd> (or <kbd>shift</kbd> + <kbd>/</kbd>) while going through the slides, you can see a list of special slide-specific commands.
 {{% /div %}}
