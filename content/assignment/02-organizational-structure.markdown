@@ -56,4 +56,6 @@ Since this is a team assignment, only one copy of the assignment needs to be sub
 
 ## Grading
 
-Grading system TBA.
+I will grade this assignment using this rubric: [`blank_organizational-structure.xlsx`](/files/blank_organizational-structure.xlsx)
+
+*(I'd highly recommend downloading the rubric and referencing at it as you work on your assignment!)*
