@@ -29,6 +29,69 @@ The slides for today’s class are available online as an HTML file. Use the but
 
 {{% slide-buttons %}}
 
+<ul class="nav nav-tabs" id="slide-tabs" role="tablist">
+<li class="nav-item">
+<a class="nav-link active" id="introduction-tab" data-toggle="tab" href="#introduction" role="tab" aria-controls="introduction" aria-selected="true">Introduction</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" id="principals-and-agents-tab" data-toggle="tab" href="#principals-and-agents" role="tab" aria-controls="principals-and-agents" aria-selected="false">Principals and agents</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" id="officers-and-employees-tab" data-toggle="tab" href="#officers-and-employees" role="tab" aria-controls="officers-and-employees" aria-selected="false">Officers and employees</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" id="volunteers-tab" data-toggle="tab" href="#volunteers" role="tab" aria-controls="volunteers" aria-selected="false">Volunteers</a>
+</li>
+</ul>
+
+<div id="slide-tabs" class="tab-content">
+
+<div id="introduction" class="tab-pane fade show active" role="tabpanel" aria-labelledby="introduction-tab">
+
+<div class="embed-responsive embed-responsive-16by9">
+
+<iframe class="embed-responsive-item" src="/slides/11-slides.html#1">
+</iframe>
+
+</div>
+
+</div>
+
+<div id="principals-and-agents" class="tab-pane fade" role="tabpanel" aria-labelledby="principals-and-agents-tab">
+
+<div class="embed-responsive embed-responsive-16by9">
+
+<iframe class="embed-responsive-item" src="/slides/11-slides.html#principals-agents">
+</iframe>
+
+</div>
+
+</div>
+
+<div id="officers-and-employees" class="tab-pane fade" role="tabpanel" aria-labelledby="officers-and-employees-tab">
+
+<div class="embed-responsive embed-responsive-16by9">
+
+<iframe class="embed-responsive-item" src="/slides/11-slides.html#officers-employees">
+</iframe>
+
+</div>
+
+</div>
+
+<div id="volunteers" class="tab-pane fade" role="tabpanel" aria-labelledby="volunteers-tab">
+
+<div class="embed-responsive embed-responsive-16by9">
+
+<iframe class="embed-responsive-item" src="/slides/11-slides.html#volunteers">
+</iframe>
+
+</div>
+
+</div>
+
+</div>
+
 {{% div fyi %}}
 **Fun fact**: If you type <kbd>?</kbd> (or <kbd>shift</kbd> + <kbd>/</kbd>) while going through the slides, you can see a list of special slide-specific commands.
 {{% /div %}}

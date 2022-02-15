@@ -17,15 +17,12 @@ slides: "11-slides"
 ```{r slides, echo=FALSE, include=FALSE}
 source(here::here("R", "slide-tabs.R"))
 
-playlist_id <- "PLS6tnpTr39sHcnk9KcoQVzDywxWRzVWHC"
-
 slide_details <- tibble::tribble(
   ~title, ~slide, ~active,
   "Introduction", "1", TRUE,
-  "Data science and public service", "ds-ps", FALSE,
-  "Evidence, evaluation, and causation (1)", "evidence-evaluation-causation", FALSE,
-  "Evidence, evaluation, and causation (2)", "evidence-evaluation-causation1", FALSE,
-  "Class details", "class-details", FALSE
+  "Principals and agents", "principals-agents", FALSE,
+  "Officers and employees", "officers-employees", FALSE,
+  "Volunteers", "volunteers", FALSE
 )
 ```
 
@@ -47,7 +44,7 @@ The slides for today's class are available online as an HTML file. Use the butto
 `r blogdown::shortcode("slide-buttons")`
 
 ```{r show-slide-tabs, echo=FALSE, results="asis"}
-# slide_tabs(slide_details, "/slides/02-slides.html")
+slide_tabs(slide_details, "/slides/11-slides.html")
 ```
 
 {{% div fyi %}}
