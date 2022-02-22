@@ -206,8 +206,14 @@ lessons:
     bg: 2
     bottomborder: True
 
-  - title: '<span class="content-title">Final presentations</span>'
+  - title: '<span class="content-title">Final presentations (day 1)</span>'
     date: "April 19"
+    class: "27-class"
+    bg: 1
+    bottomborder: True
+    
+  - title: '<span class="content-title">Final presentations (day 2)</span>'
+    date: "April 21"
     class: "27-class"
     bg: 1
     bottomborder: True
