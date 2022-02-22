@@ -30,7 +30,7 @@ In ≈300 words, describe the legal structure for your organization. Include det
 
 **Part 2:**
 
-Follow the sample provided by Georgia's Office of Secretary of State ([see p. 3 here](https://sos.ga.gov/corporations/acrobat/applications/Filing%20Procedure%20-%20Corporation.pdf)) and create a set of draft Articles of Incorporation for your nonprofit. [See here for more details](https://www.nolo.com/legal-encyclopedia/forming-nonprofit-corporation-georgia-36059.html#four). You should use [the IRS boilerplate language here](https://www.irs.gov/charities-non-profits/suggested-language-for-corporations-and-associations) as well.
+Follow the sample provided by Georgia's Office of Secretary of State ([see p. 3 here](https://web.archive.org/web/20220213134129/https://sos.ga.gov/corporations/acrobat/applications/Filing%20Procedure%20-%20Corporation.pdf)) and create a set of draft Articles of Incorporation for your nonprofit. [See here for more details](https://www.nolo.com/legal-encyclopedia/forming-nonprofit-corporation-georgia-36059.html#four). You should use [the IRS boilerplate language here](https://www.irs.gov/charities-non-profits/suggested-language-for-corporations-and-associations) as well.
 
 
 ### 2: Organizational structure
