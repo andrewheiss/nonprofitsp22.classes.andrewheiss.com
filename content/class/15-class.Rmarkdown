@@ -17,15 +17,11 @@ slides: "15-slides"
 ```{r slides, echo=FALSE, include=FALSE}
 source(here::here("R", "slide-tabs.R"))
 
-playlist_id <- "PLS6tnpTr39sHcnk9KcoQVzDywxWRzVWHC"
-
 slide_details <- tibble::tribble(
   ~title, ~slide, ~active,
   "Introduction", "1", TRUE,
-  "Data science and public service", "ds-ps", FALSE,
-  "Evidence, evaluation, and causation (1)", "evidence-evaluation-causation", FALSE,
-  "Evidence, evaluation, and causation (2)", "evidence-evaluation-causation1", FALSE,
-  "Class details", "class-details", FALSE
+  "Anatomy of a budget", "anatomy", FALSE,
+  "Financial analysis", "analysis", FALSE
 )
 ```
 
@@ -40,6 +36,32 @@ slide_details <- tibble::tribble(
 What control should the board have over the ability of nonprofit executives to spend funds to accomplish organizational objectives? Should nonprofit executives have flexibility to adjust their budgets in response to new conditions without obtaining board approval? (Answer in ≈150 words.)
 
 
+## In-class materials
+
+Spreadsheets:
+
+- <i class="fas fa-table"></i> [Example budget](https://docs.google.com/spreadsheets/d/1sopDY2Gt_evdK1JQNhoXue8Fguy2nY1m9mdlxj0PSVE/edit?usp=sharing)
+- <i class="fas fa-table"></i> [990 analysis form](https://docs.google.com/spreadsheets/d/1EmYmdi5EVyC7OyZgYVO1NHZXY0dT7ejXZYXIX6ZaOXo/edit?usp=sharing)
+
+990s:
+
+- <i class="far fa-file-pdf"></i> [CARE 2018 990](/files/990s/CARE-2018-990.pdf)
+- <i class="far fa-file-pdf"></i> [CARE 2019 990](/files/990s/CARE-2019-990.pdf)
+- <i class="far fa-file-pdf"></i> [CARE 2020 990](/files/990s/CARE-2020-990.pdf)
+- <i class="far fa-file-pdf"></i> [Georgia Aquarium 2017 990](/files/990s/Georgia-Aquarium-2017-990.pdf)
+- <i class="far fa-file-pdf"></i> [Georgia Aquarium 2018 990](/files/990s/Georgia-Aquarium-2018-990.pdf)
+- <i class="far fa-file-pdf"></i> [Georgia Aquarium 2019 990](/files/990s/Georgia-Aquarium-2019-990.pdf)
+- <i class="far fa-file-pdf"></i> [Center for Puppetry Arts 2018 990](/files/990s/Center-for-Puppetry-Arts-2018-990.pdf)
+- <i class="far fa-file-pdf"></i> [Center for Puppetry Arts 2019 990](/files/990s/Center-for-Puppetry-Arts-2019-990.pdf)
+- <i class="far fa-file-pdf"></i> [Center for Puppetry Arts 2020 990](/files/990s/Center-for-Puppetry-Arts-2020-990.pdf)
+- <i class="far fa-file-pdf"></i> [Live Thrive 2017 990](/files/990s/Live-Thrive-2017-990.pdf)
+- <i class="far fa-file-pdf"></i> [Live Thrive 2018 990](/files/990s/Live-Thrive-2018-990.pdf)
+- <i class="far fa-file-pdf"></i> [Live Thrive 2019 990](/files/990s/Live-Thrive-2019-990.pdf)
+- <i class="far fa-file-pdf"></i> [Trees Atlanta 2018 990](/files/990s/Trees-Atlanta-2018-990.pdf)
+- <i class="far fa-file-pdf"></i> [Trees Atlanta 2019 990](/files/990s/Trees-Atlanta-2019-990.pdf)
+- <i class="far fa-file-pdf"></i> [Trees Atlanta 2020 990](/files/990s/Trees-Atlanta-2020-990.pdf) 
+
+
 ## Slides
 
 The slides for today's class are available online as an HTML file. Use the buttons below to open the slides either as an interactive website or as a static PDF (for printing or storing for later). You can also click in the slides below and navigate through them with your left and right arrow keys.
@@ -47,7 +69,7 @@ The slides for today's class are available online as an HTML file. Use the butto
 `r blogdown::shortcode("slide-buttons")`
 
 ```{r show-slide-tabs, echo=FALSE, results="asis"}
-# slide_tabs(slide_details, "/slides/02-slides.html")
+slide_tabs(slide_details, "/slides/15-slides.html")
 ```
 
 {{% div fyi %}}

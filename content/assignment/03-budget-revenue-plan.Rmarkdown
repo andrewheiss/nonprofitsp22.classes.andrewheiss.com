@@ -20,7 +20,11 @@ You will write a ≈750-word paper covering two related topics. Use headings and
 
 ### 1: Revenue sources
 
-In ≈500 words, describe how your organization will generate revenue. Will it raise funds from the public? Will it seek out grants from the government or from larger foundations? Justify your primary and secondary revenue sources and explain how these sources of money fit with the nonprofit's mission, vision, and values.
+In ≈500 words, describe how your organization will generate revenue. Will it raise funds from the public? Will it seek out grants from the government or from larger foundations? Will it sell goods or charge for services? Why?
+
+Justify your primary and secondary revenue sources and explain how these sources of money fit with the nonprofit's mission, vision, and values.
+
+Discuss your concerns with each of the sources of revenue you're pursuing and explain how to mitigate those concerns (recall the content from [the class session on fundraising](/class/13-class/): volatility, goal displacement, and process & structure effects).
 
 ### 2: Budget
 
@@ -41,7 +45,7 @@ In ≈250 words, describe and justify this budget. What are some areas of concer
 
 **Part 3:**
 
-Create a copy of your budget (preferably as a new worksheet in the same document) that shows what your nonprofit would do if your main source of revenue was cut by 50%.
+Create a copy of your budget (preferably as a new worksheet in the same document) that shows what your nonprofit would do if your main source of revenue was cut by 50%. Highlight and annotate the cells and categories that would need to change.
 
 
 ## Turning it in
@@ -53,4 +57,6 @@ Since this is a team assignment, only one copy of the assignment needs to be sub
 
 ## Grading
 
-Grading system TBA.
+I will grade this assignment using this rubric: [`blank_revenue-plan-budget.xlsx`](/files/blank_revenue-plan-budget.xlsx)
+
+*(I'd highly recommend downloading the rubric and referencing at it as you work on your assignment!)*

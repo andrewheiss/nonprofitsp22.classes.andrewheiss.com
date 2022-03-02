@@ -18,6 +18,12 @@ slides: "14-slides"
 
 -   <i class="fas fa-book"></i> Scenario 14 (about Quad Fundraising Services) in Appendix 10, “Nonprofit Ethics Scenarios,” in Grobman, *An Introduction to the Nonprofit Sector*[^1]
 
+## Online resources for fundraising and donor management
+
+-   [Donorbox](https://donorbox.org/)
+-   [Kindful](https://kindful.com/)
+-   [Give Lively](https://www.givelively.org/)
+
 ## Written response question
 
 Two parts for today:
