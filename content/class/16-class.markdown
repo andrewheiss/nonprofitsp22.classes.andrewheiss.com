@@ -18,6 +18,10 @@ slides: "16-slides"
 
 -   <i class="fas fa-book"></i> Case 5, “Cutting the Budget of the Harristown Family Service,” in Grobman, *An Introduction to the Nonprofit Sector*[^1]
 
+## In-class stuff
+
+-   <i class="fas fa-table"></i> [Hypothetical HFS budget](https://docs.google.com/spreadsheets/d/1Ly-hSZ1uFFvumpqIKa1SEV-CYCnDMmc-l6nRa-LmuPQ/edit?usp=sharing)
+
 ## Written response question
 
 Two parts for today:
