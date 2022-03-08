@@ -17,15 +17,12 @@ slides: "17-slides"
 ```{r slides, echo=FALSE, include=FALSE}
 source(here::here("R", "slide-tabs.R"))
 
-playlist_id <- "PLS6tnpTr39sHcnk9KcoQVzDywxWRzVWHC"
-
 slide_details <- tibble::tribble(
   ~title, ~slide, ~active,
   "Introduction", "1", TRUE,
-  "Data science and public service", "ds-ps", FALSE,
-  "Evidence, evaluation, and causation (1)", "evidence-evaluation-causation", FALSE,
-  "Evidence, evaluation, and causation (2)", "evidence-evaluation-causation1", FALSE,
-  "Class details", "class-details", FALSE
+  "Marketing theories", "theories", FALSE,
+  "Marketing tools", "tools", FALSE,
+  "Dignity and poverty porn", "dignity", FALSE
 )
 ```
 
@@ -45,6 +42,20 @@ This is a helpful checklist that you'll want to review when working on your proj
 Find an example of nonprofit advertising that engages in "poverty porn" and critique it. Why is the advertisement exploitative? What could the organization do to improve the campaign? (Answer in ≈150 words.)
 
 
+## Helpful marketing resources
+
+- The Modern Nonprofit, ["Donor Personas: Finding and Connecting with your Audience"](https://themodernnonprofit.com/donor-personas/)
+- [HubSpot Buyer Persona templates](https://offers.hubspot.com/persona-templates)
+- [charity: water Brand Book](/files/branding/brandbook-2016.pdf)
+- [Boy Scouts of America Brand Guidelines](/files/branding/310-0231.pdf)
+- [NAACP Brand Identity Manual](/files/branding/NAACP-Brand-ID-Guide.pdf)
+
+```{comment}
+charity: water book: https://d11sa1anfvm2xk.cloudfront.net/media/downloads/brandbook-2016.pdf
+BSA book: https://filestore.scouting.org/filestore/pdf/310-0231.pdf
+```
+
+
 ## Slides
 
 The slides for today's class are available online as an HTML file. Use the buttons below to open the slides either as an interactive website or as a static PDF (for printing or storing for later). You can also click in the slides below and navigate through them with your left and right arrow keys.
@@ -52,7 +63,7 @@ The slides for today's class are available online as an HTML file. Use the butto
 `r blogdown::shortcode("slide-buttons")`
 
 ```{r show-slide-tabs, echo=FALSE, results="asis"}
-# slide_tabs(slide_details, "/slides/02-slides.html")
+slide_tabs(slide_details, "/slides/17-slides.html")
 ```
 
 {{% div fyi %}}

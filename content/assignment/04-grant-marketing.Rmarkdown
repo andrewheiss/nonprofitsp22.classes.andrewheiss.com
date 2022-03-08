@@ -20,24 +20,38 @@ You will write a paper covering two related topics. Use headings and subheadings
 
 ### 1: Public relations and marketing
 
-As a team, create two public relations strategies and accompanying marketing plans. Make sure you explain who your target audience is, what the campaign will look like, what the purpose of the campaign is, etc. Explain how these strategies and plans fit with your nonprofit's mission, vision, and values. Do this in ≈200 words per strategy (so ≈400 words total).
+**Part 1**:
 
-Write a short (≈200 word) press release about one of your organization's programs.
+As a team, create a strategic marketing plan for your nonprofit. Use this template, adapted from [HubSpot's template](https://blog.hubspot.com/marketing/marketing-plan-template-generator):
+
+- <i class="fas fa-file-alt"></i> [Marketing plan template](https://docs.google.com/document/d/1Eo1jCSBfVhnavfPSQ0CtmOuH-pfT763UvKQ3ZCXKR1o/copy)
+
+I'd *highly recommend* [generating a template from HubSpot](https://offers.hubspot.com/marketing-plan-template) and scrolling down to around page 22—they've included a fully worked out example for a hypothetical organization that you can reference.
+
+**Part 2**:
+
+As a team, write a short (≈200 word) press release about one of your organization's programs. Pages 187–189 in chapter 9 in Peri H. Pakroo, *Starting & Building a Nonprofit* [@Pakroo:2021] (the PDF for this is on iCollege under "Content") will be *incredibly helpful* as a guide.
+
 
 ### 2: Grantwriting
 
-As a team, write a grant for $50,000 from a hypothetical foundation that funds similar nonprofits. This grant needs to be used for a specific program that your organization provides (i.e. it's not just money that will go to the nonprofit's general fund).
+As a team, write a grant for $50,000 from a hypothetical foundation that funds similar nonprofits. **This grant needs to be used for a specific program that your organization provides** (i.e. it's not just money that will go to the nonprofit's general fund).
 
-Your grant proposal should include the following sections (remember the resources from the [readings on fundraising](/class/13-class/)):
+Your grant proposal should include the following sections (remember the resources from the [readings on fundraising](/class/13-class/); this outline follows the "Sections of a Grant Application" section from Grobman, chapter 10):
 
-1. Statement of need
-2. Goals and objectives
-3. Methods and strategies
-4. Plan of evaluation
-5. Budget information
-6. Organizational background
+1. Introduction
+2. Statement of need
+3. Objectives
+4. Project description
+5. Budget
+6. Evaluation
+7. Conclusion
 
 There's no official word limit guidance for this section—it definitely shouldn't be shorter than 750 words.
+
+If you want, you can use this template (but you don't have to):
+
+- <i class="fas fa-file-alt"></i> [Grant proposal template](https://docs.google.com/document/d/1erluiLEfNDp1truDgveJP9NWsLCDiwe4rfu0YkKXPgs/copy)
 
 
 ## Turning it in
@@ -49,4 +63,6 @@ Since this is a team assignment, only one copy of the assignment needs to be sub
 
 ## Grading
 
-Grading system TBA.
+I will grade this assignment using this rubric: [`blank_fundraising-marketing.xlsx`](/files/blank_fundraising-marketing.xlsx)
+
+*(I'd highly recommend downloading the rubric and referencing at it as you work on your assignment!)*
