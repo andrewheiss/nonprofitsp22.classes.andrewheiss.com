@@ -14,6 +14,14 @@ csl: "../../static/bib/chicago-fullnote-bibliography-no-bib.csl"
 slides: "18-slides"
 ---
 
+```{r slides, echo=FALSE, include=FALSE}
+source(here::here("R", "slide-tabs.R"))
+
+slide_details <- tibble::tribble(
+  ~title, ~slide, ~active,
+  "Stories", "stories", TRUE
+)
+```
 
 ## Readings
 
@@ -27,3 +35,18 @@ Two parts for today:
 1. Describe a preliminary idea for a marketing strategy for your nonprofit. You'll spend class time deciding on more formal plans.
 
 2. Frame your nonprofit's issue or cause as a story. (Answer in ≈75 words.)
+
+
+## Slides
+
+The slides for today's class are available online as an HTML file. Use the buttons below to open the slides either as an interactive website or as a static PDF (for printing or storing for later). You can also click in the slides below and navigate through them with your left and right arrow keys.
+
+`r blogdown::shortcode("slide-buttons")`
+
+```{r show-slide-tabs, echo=FALSE, results="asis"}
+slide_tabs(slide_details, "/slides/18-slides.html")
+```
+
+{{% div fyi %}}
+**Fun fact**: If you type <kbd>?</kbd> (or <kbd>shift</kbd> + <kbd>/</kbd>) while going through the slides, you can see a list of special slide-specific commands.
+{{% /div %}}
