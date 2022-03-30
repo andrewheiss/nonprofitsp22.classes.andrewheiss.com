@@ -1,6 +1,6 @@
 ---
-title: "Diversity in the public sector"
-linktitle: "21: Diversity in the public sector"
+title: "Diversity in the nonprofit sector"
+linktitle: "21: Diversity in the nonprofit sector"
 date: "2022-03-29"
 class_date: "2022-03-29"
 menu:
@@ -31,6 +31,69 @@ The formal nonprofit sector has historically been controlled by wealthy white st
 The slides for today’s class are available online as an HTML file. Use the buttons below to open the slides either as an interactive website or as a static PDF (for printing or storing for later). You can also click in the slides below and navigate through them with your left and right arrow keys.
 
 {{% slide-buttons %}}
+
+<ul class="nav nav-tabs" id="slide-tabs" role="tablist">
+<li class="nav-item">
+<a class="nav-link active" id="introduction-tab" data-toggle="tab" href="#introduction" role="tab" aria-controls="introduction" aria-selected="true">Introduction</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" id="institutions-and-individual-action-tab" data-toggle="tab" href="#institutions-and-individual-action" role="tab" aria-controls="institutions-and-individual-action" aria-selected="false">Institutions and individual action</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" id="nonprofits-and-institutions-tab" data-toggle="tab" href="#nonprofits-and-institutions" role="tab" aria-controls="nonprofits-and-institutions" aria-selected="false">Nonprofits and institutions</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" id="diversity-in-nonprofits-tab" data-toggle="tab" href="#diversity-in-nonprofits" role="tab" aria-controls="diversity-in-nonprofits" aria-selected="false">Diversity in nonprofits</a>
+</li>
+</ul>
+
+<div id="slide-tabs" class="tab-content">
+
+<div id="introduction" class="tab-pane fade show active" role="tabpanel" aria-labelledby="introduction-tab">
+
+<div class="embed-responsive embed-responsive-16by9">
+
+<iframe class="embed-responsive-item" src="/slides/21-slides.html#1">
+</iframe>
+
+</div>
+
+</div>
+
+<div id="institutions-and-individual-action" class="tab-pane fade" role="tabpanel" aria-labelledby="institutions-and-individual-action-tab">
+
+<div class="embed-responsive embed-responsive-16by9">
+
+<iframe class="embed-responsive-item" src="/slides/21-slides.html#institutions">
+</iframe>
+
+</div>
+
+</div>
+
+<div id="nonprofits-and-institutions" class="tab-pane fade" role="tabpanel" aria-labelledby="nonprofits-and-institutions-tab">
+
+<div class="embed-responsive embed-responsive-16by9">
+
+<iframe class="embed-responsive-item" src="/slides/21-slides.html#nonprofits-institutions">
+</iframe>
+
+</div>
+
+</div>
+
+<div id="diversity-in-nonprofits" class="tab-pane fade" role="tabpanel" aria-labelledby="diversity-in-nonprofits-tab">
+
+<div class="embed-responsive embed-responsive-16by9">
+
+<iframe class="embed-responsive-item" src="/slides/21-slides.html#diversity">
+</iframe>
+
+</div>
+
+</div>
+
+</div>
 
 {{% div fyi %}}
 **Fun fact**: If you type <kbd>?</kbd> (or <kbd>shift</kbd> + <kbd>/</kbd>) while going through the slides, you can see a list of special slide-specific commands.
