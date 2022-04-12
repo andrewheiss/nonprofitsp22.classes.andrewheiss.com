@@ -40,4 +40,4 @@ Since this is a team assignment, only one copy of the assignment needs to be sub
 
 I will grade this assignment using this rubric: [`blank_dei.xlsx`](/files/blank_dei.xlsx)
 
-*(I'd highly recommend downloading the rubric and referencing at it as you work on your assignment!)*
+*(I'd highly recommend downloading the rubric and referencing it as you work on your assignment!)*
