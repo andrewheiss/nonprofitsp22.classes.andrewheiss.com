@@ -55,4 +55,9 @@ Since this is a team assignment, only one copy of the assignment needs to be sub
 
 ## Grading
 
-Grading system TBA.
+I will grade these assignments using these rubrics: 
+
+- Final presentation: [`blank_presentation.xlsx`](/files/blank_presentation.xlsx)
+- Final portfolio: [`blank_portfolio.xlsx`](/files/blank_portfolio.xlsx)
+
+*(I'd highly recommend downloading these rubrics and referencing them as you work on your project!)*
