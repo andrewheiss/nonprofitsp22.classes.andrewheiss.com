@@ -611,8 +611,12 @@ class: middle
 
 ---
 
+> Your organization runs community health clinics in rural Haiti. To stay caught up with relevant research and to network with potential donors and volunteers, your staff attends annual conferences at expensive Swiss chalets. Is this ethical?
+
+---
+
 > Your organization received too much money for a program that's already well-funded. Should you divert the money to a different under-funded program?
 
 ---
 
-> Your organization runs community health clinics in rural Haiti. To stay caught up with relevant research and to network with potential donors and volunteers, your staff attends annual conferences at expensive Swiss chalets. Is this ethical?
+.box-3.large["Doctoring the resume"]
